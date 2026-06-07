@@ -1,0 +1,6 @@
+[submodule "lib/BrownSugar_KBD_KiCad_Library"]
+	path = lib/BrownSugar_KBD_KiCad_Library
+	url = git@github.com:koktoh/BrownSugar_KBD_KiCad_Library.git
+[submodule "lib/OPL_Kicad_Library"]
+	path = lib/OPL_Kicad_Library
+	url = git@github.com:Seeed-Studio/OPL_Kicad_Library.git
