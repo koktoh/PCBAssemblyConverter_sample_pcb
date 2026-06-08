@@ -1,0 +1,50 @@
+[
+  {
+    "Name": "D_SOD-123",
+    "Key": "D_SOD-123",
+    "MatchingStrategy": 0,
+    "OffsetX": 0,
+    "OffsetY": 0,
+    "ChangeSide": 0,
+    "RotationAdjustment": 0,
+    "ManufacturerPartNumber": "C81598",
+    "ManufacturerPartNotes": "",
+    "RuleAction": 0
+  },
+  {
+    "Name": "CherryMX_Hotswap",
+    "Key": "CherryMX_Hotswap(_thin)?(_via)?_((\\d\u002B(\\.\\d\u002B)U)|(ISO_Enter))?(_.\u002B)?",
+    "MatchingStrategy": 2,
+    "OffsetX": -0.635,
+    "OffsetY": 3.81,
+    "ChangeSide": 3,
+    "RotationAdjustment": 0,
+    "ManufacturerPartNumber": "C49352235",
+    "ManufacturerPartNotes": "kailh:C5156480(not available), HE(purple):C41430893, HE(white):C49352235",
+    "RuleAction": 0
+  },
+  {
+    "Name": "Kailh_Choc_V1_Hotswap",
+    "Key": "Kailh_Choc_V1_Hotswap(_thin)?(_via)?",
+    "MatchingStrategy": 2,
+    "OffsetX": -2.5,
+    "OffsetY": -7,
+    "ChangeSide": 3,
+    "RotationAdjustment": 0,
+    "ManufacturerPartNumber": "",
+    "ManufacturerPartNotes": "not available on LCSC",
+    "RuleAction": 1
+  },
+  {
+    "Name": "XIAO-RP2040",
+    "Key": "XIAO-RP2040",
+    "MatchingStrategy": 1,
+    "OffsetX": 0,
+    "OffsetY": 0,
+    "ChangeSide": 0,
+    "RotationAdjustment": 0,
+    "ManufacturerPartNumber": "",
+    "ManufacturerPartNotes": "",
+    "RuleAction": 1
+  }
+]
